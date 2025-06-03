@@ -1,4 +1,4 @@
-[![gaerhard's 42 stats](https://badge42.vercel.app/api/v2/clatwxbni01060fmdfe7xoii0/stats?cursusId=21&coalitionId=1)](https://github.com/JaeSeoKim/badge42)
+[![gaerhard's 42 stats](https://badge.mediaplus.ma/darkblue/gaerhard?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
 <!---
 - 👋 Hi, I’m @Gaerhard
 - 👀 I’m interested in ...
